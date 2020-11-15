@@ -1,4 +1,4 @@
-# api-weather api-weather
+# Api-weather
 App where you can search max min temp from any city and more info. Reactjs  
 
 ## Instructions to run the project 
